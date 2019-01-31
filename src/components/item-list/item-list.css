@@ -1,0 +1,8 @@
+.item-list .list-group-item {
+  cursor: pointer;
+  padding: 13.7px;
+}
+
+.item-list .list-group-item:hover {
+  background-color: #444;
+}
